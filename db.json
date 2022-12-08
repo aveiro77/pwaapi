@@ -1,0 +1,13 @@
+{
+  "departements" :[
+    {"id":1,"departement":"Product Management"},
+    {"id":2,"departement":"Legal"},
+    {"id":3,"departement":"Support"},
+    {"id":4,"departement":"Research and Development"},
+    {"id":5,"departement":"Sales"},
+    {"id":6,"departement":"Services"},
+    {"id":7,"departement":"Business Development"},
+    {"id":8,"departement":"Human Resources"},
+    {"id":9,"departement":"Training"}
+  ]
+}
