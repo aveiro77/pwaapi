@@ -1,13 +1,24 @@
 {
   "departements" :[
-    {"id":1,"departement":"Product Management"},
-    {"id":2,"departement":"Legal"},
-    {"id":3,"departement":"Support"},
-    {"id":4,"departement":"Research and Development"},
-    {"id":5,"departement":"Sales"},
-    {"id":6,"departement":"Services"},
-    {"id":7,"departement":"Business Development"},
-    {"id":8,"departement":"Human Resources"},
-    {"id":9,"departement":"Training"}
+    {"id":1,"level":"Business Systems Development Analyst","section":"Goldenrod","departement":"Toys"},
+    {"id":2,"level":"Financial Analyst","section":"Yellow","departement":"Beauty"},
+    {"id":3,"level":"Professor","section":"Crimson","departement":"Shoes"},
+    {"id":4,"level":"Programmer Analyst I","section":"Goldenrod","departement":"Jewelry"},
+    {"id":5,"level":"Financial Advisor","section":"Violet","departement":"Electronics"},
+    {"id":6,"level":"Assistant Media Planner","section":"Pink","departement":"Sports"},
+    {"id":7,"level":"Nurse","section":"Goldenrod","departement":"Kids"},
+    {"id":8,"level":"Account Executive","section":"Red","departement":"Games"},
+    {"id":9,"level":"Desktop Support Technician","section":"Teal","departement":"Industrial"},
+    {"id":10,"level":"Nuclear Power Engineer","section":"Maroon","departement":"Grocery"},
+    {"id":11,"level":"Editor","section":"Green","departement":"Outdoors"},
+    {"id":12,"level":"Information Systems Manager","section":"Green","departement":"Home"},
+    {"id":13,"level":"VP Product Management","section":"Yellow","departement":"Industrial"},
+    {"id":14,"level":"Cost Accountant","section":"Puce","departement":"Outdoors"},
+    {"id":15,"level":"Tax Accountant","section":"Red","departement":"Beauty"},
+    {"id":16,"level":"Compensation Analyst","section":"Green","departement":"Kids"},
+    {"id":17,"level":"Clinical Specialist","section":"Purple","departement":"Beauty"},
+    {"id":18,"level":"Administrative Officer","section":"Blue","departement":"Books"},
+    {"id":19,"level":"Research Assistant III","section":"Goldenrod","departement":"Sports"},
+    {"id":20,"level":"Software Consultant","section":"Blue","departement":"Outdoors"}
   ]
 }
