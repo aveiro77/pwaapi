@@ -22,11 +22,5 @@
 {"id":21,"name":"Marv","date":"9.4.2022","type":"K","description":"Red"},
 {"id":22,"name":"Ario","date":"3.9.2022","type":"T","description":"Puce"},
 {"id":23,"name":"Kermit","date":"30.3.2022","type":"P","description":"Turquoise"},
-{"id":24,"name":"Laurette","date":"22.10.2022","type":"K","description":"Turquoise"},
-{"id":25,"name":"Nicolea","date":"17.9.2022","type":"P","description":"Green"},
-{"id":26,"name":"Farlie","date":"24.4.2022","type":"T","description":"Fuscia"},
-{"id":27,"name":"Raphaela","date":"29.11.2022","type":"K","description":"Teal"},
-{"id":28,"name":"Sky","date":"9.4.2022","type":"P","description":"Aquamarine"},
-{"id":29,"name":"Ardeen","date":"2.7.2022","type":"T","description":"Violet"},
-{"id":30,"name":"Sunny","date":"17.4.2022","type":"T","description":"Fuscia"}]
+{"id":24,"name":"Laurette","date":"22.10.2022","type":"K","description":"Turquoise"}
 }
